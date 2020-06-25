@@ -4,3 +4,6 @@ My friends and I love fantasy football but it is a shame that we find it hard to
 This repository contains the backend for the app.
 
 ## System Overview
+
+### Basic Class Diagram:
+<img src = "FantasyFootballUML.png" height = "700">
