@@ -5,8 +5,8 @@ This repository contains the backend for the app.
 
 ## System Overview
 
-### Basic Class Diagram:
-<img src = "FantasyFootballUML.png">
+### Database Diagram:
+<img src = "Database Schema.png">
 
 ### System Diagram 
 <img src = "FantasyFootballSystemDiagram.png">
