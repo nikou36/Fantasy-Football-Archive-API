@@ -6,4 +6,4 @@ This repository contains the backend for the app.
 ## System Overview
 
 ### Basic Class Diagram:
-<img src = "FantasyFootballUML.png" height = "700">
+<img src = "FantasyFootballUML.png">
