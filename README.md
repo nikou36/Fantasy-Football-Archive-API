@@ -6,7 +6,7 @@ This repository contains the backend for the app.
 ## System Overview
 
 ### Database Diagram:
-<img src = "Database Schema.png">
+<img src = "Database-schema.png">
 
 ### System Diagram 
 <img src = "FantasyFootballSystemDiagram.png">
